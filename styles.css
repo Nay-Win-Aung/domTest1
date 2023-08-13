@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+#fetchButton {
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#output {
+    margin-top: 20px;
+    font-size: 18px;
+}
